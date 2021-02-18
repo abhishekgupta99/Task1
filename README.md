@@ -4,3 +4,5 @@ Prediction using Supervised ML
 Prediction using Unsupervised ML
 # Task3
 Exploratory Data Analysis - Retail
+#Task4
+Exploratory Data Analysis - Terrorism
